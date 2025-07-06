@@ -67,3 +67,5 @@ tqdm
 scikit-learn
 
 Install dependencies with:
+
+<pre> ```pip install tensorflow opencv-python librosa soundfile resampy tqdm scikit-learn ``` </pre>
